@@ -14,6 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/table1', function () {
-    return view('table1');
+Route::get('/tablee', function () {
+    return view('tablee');
 });
